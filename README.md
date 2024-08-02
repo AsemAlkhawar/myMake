@@ -69,7 +69,7 @@ The program includes various error checks and will exit with an error message if
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/yourusername/mymake/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](https://github.com/AsemAlkhawar/mymake/issues) if you want to contribute.
 
 ## 👨‍💻 Author
 **Asem Alkhawar**
@@ -77,4 +77,3 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 - LinkedIn: [Asem Alkhawar](https://www.linkedin.com/in/asem7)
 
 
-This README provides an overview of your MyMake project, including its features, usage instructions, project structure, and how to build it. It also includes information about the makefile format, error handling, and contribution guidelines. Feel free to adjust any details or add more information as needed.
